@@ -93,13 +93,20 @@ body{
 }
 
 h3{
-    object-fit: contain;
     text-align: center;
     background-color: #4B0082;
     position: relative;
-    left: 800px;
+    left: 100px;
     width: 250px;
     top: 25px;
+}
+
+.porjects p{
+    background-color: #00008B;
+    width: 50%;
+    position: relative;
+    bottom: 20px;
+    left: 40%;
 }
 
 .project-1 img{
@@ -110,13 +117,29 @@ h3{
 
 .project-2 img{
     position: relative;
-    left: 15%;
+    left: 10%;
     max-width: 60%;
 }
 
-.project-3 img{}
+.lista{
+    font-size: 20px;
+    position: absolute;
+    width: 25%;
+    top: 280%;
+    left: 73%;
+}
 
-.project-4 img{}
+.project-3 img{
+    position: relative;
+    left: 25%;
+    max-width: 50%;
+}
+
+.project-4 img{
+    position: relative;
+    left: 40%;
+    max-width: 40%;
+}
 
 .project-5 img{
     position: relative;
