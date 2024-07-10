@@ -31,6 +31,7 @@ body{
     display: flex;
     font-family: "Roboto Slab", serif;
     background-color: #292C35;
+    height: 15vh;
 }
 
 .cabeçalho li a{
@@ -40,11 +41,6 @@ body{
     top: 30%;
     color: #ffffff;
     font-size: 140%;
-}
-
-.img-logo{
-    position: relative;
-    left: 13%;
 }
 
 .navegação{
